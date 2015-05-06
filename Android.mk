@@ -112,6 +112,8 @@ LOCAL_SRC_FILES += \
 	core/java/android/bluetooth/IBluetoothGattServerCallback.aidl \
 	core/java/android/bluetooth/IBluetoothSap.aidl \
 	core/java/android/bluetooth/IBluetoothDun.aidl \
+	core/java/android/bluetooth/IBluetoothVS.aidl \
+	core/java/android/bluetooth/IBluetoothVSCallback.aidl \
 	core/java/android/content/IClipboard.aidl \
 	core/java/android/content/IContentService.aidl \
 	core/java/android/content/IIntentReceiver.aidl \
